@@ -1,0 +1,26 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "Learning Full Stack",
+  "main": "index.js",
+  "engines": {
+    "node": "9.6.1",
+    "npm" : "5.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shayne Stewart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
